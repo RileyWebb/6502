@@ -1,0 +1,1 @@
+BUILT WITH MINGW-W64 (http://mingw-w64.org/doku.php)
